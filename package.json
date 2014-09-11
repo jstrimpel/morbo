@@ -1,13 +1,12 @@
 {
-    "name": "morbo",
+    "name": "glurmo",
     "version": "0.0.1",
-    "description": "A command line utility for testing LazoJS applications",
-    "homepage": "https://github.com/jstrimpel/morbo",
+    "description": "Utility module for testing LazoJS applications",
+    "homepage": "https://github.com/jstrimpel/glurmo",
     "keywords": [
         "unit testing",
         "lazo",
-        "lazojs",
-        "command line"
+        "lazojs"
     ],
     "licenses": [
         {
@@ -17,14 +16,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/jstrimpel/morbo"
+        "url": "https://github.com/jstrimpel/glurmo"
     },
     "bugs": {
-        "url": "https://github.com/jstrimpel/morbo/issues"
+        "url": "https://github.com/jstrimpel/glurmo/issues"
     },
     "private": false,
     "bin": {
-        "morbo": "./bin/cli.js"
+        "glurmo": "./bin/cli.js"
     },
     "scripts": {},
     "dependencies": {

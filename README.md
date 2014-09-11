@@ -1,1 +1,1 @@
-> Kittens give Morbo gas. In lighter news, the city of New New York is doomed.
+> That concludes the portion of the tour where you stay alive.
