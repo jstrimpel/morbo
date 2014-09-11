@@ -1,0 +1,42 @@
+{
+    "name": "morbo",
+    "version": "0.0.1",
+    "description": "A command line utility for testing LazoJS applications",
+    "homepage": "https://github.com/jstrimpel/morbo",
+    "keywords": [
+        "unit testing",
+        "lazo",
+        "lazojs",
+        "command line"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "/blob/master/LICENSE-MIT"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jstrimpel/morbo"
+    },
+    "bugs": {
+        "url": "https://github.com/jstrimpel/morbo/issues"
+    },
+    "private": false,
+    "bin": {
+        "morbo": "./bin/cli.js"
+    },
+    "scripts": {},
+    "dependencies": {
+        "glob": "4.0.5",
+        "minimist": "1.1.0",
+        "fs-extra": "0.11.1",
+        "lodash": "2.4.1"
+    },
+    "devDependencies": {
+        "gulp": "3.8.8",
+        "gulp-mocha": "1.0.0",
+        "chai": "1.9.1",
+        "node-dir": "0.1.5"
+    }
+}
